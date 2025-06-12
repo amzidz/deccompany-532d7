@@ -553,7 +553,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: berita baru
       color: text-primary
       styles:
         self:
