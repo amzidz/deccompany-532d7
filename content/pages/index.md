@@ -119,10 +119,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          tetap berusaha hidup walaupun aslinya juga pen hidup, jan lupa dengan
+          yang namanya bersyukur yah gaes yah.
+
         image:
           type: ImageBlock
           url: /images/WhatsApp Image 2025-06-09 at 13.36.31_df9f3186.png
