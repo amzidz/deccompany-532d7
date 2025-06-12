@@ -58,7 +58,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: siapa aja
     items:
       - type: FeaturedItem
         title: 500k
