@@ -194,8 +194,7 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Rangle logo
+      - altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
