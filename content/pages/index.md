@@ -428,7 +428,7 @@ sections:
           "Design is how it works, how it functions. Good design doesn't just
           make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: "Pendapat\_3"
-        subtitle: 'Maria Walters, Company'
+        subtitle: deccompany
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
