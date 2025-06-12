@@ -118,7 +118,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: pontianak
         text: >+
           tetap berusaha hidup walaupun aslinya juga pen hidup, jan lupa dengan
           yang namanya bersyukur yah gaes yah.
