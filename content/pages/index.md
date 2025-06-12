@@ -12,15 +12,6 @@ sections:
       di sini kami belajar bahasa ingris dan bahasa arab dah itu aja buat
       sekarang.
     actions:
-      - label: ''
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - type: Button
         label: Get started
         altText: ''
