@@ -1,5 +1,5 @@
 ---
-title: Lapangan Dalwa 3
+title: Dalwa Hotel
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
