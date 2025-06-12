@@ -585,7 +585,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: judul
-        tagline: This is the tagline
+        tagline: nama
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
