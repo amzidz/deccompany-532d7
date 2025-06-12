@@ -125,7 +125,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/WhatsApp Image 2025-06-09 at 13.36.31_df9f3186.png
           altText: Placeholder text
           elementId: ''
           styles:
