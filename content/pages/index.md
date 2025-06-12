@@ -302,7 +302,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/WhatsApp Image 2025-06-09 at 13.36.20_57d7e56e.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
