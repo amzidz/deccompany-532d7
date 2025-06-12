@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: kamar 9 binayah
+      text: kamar 9 binayah (DEC)
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
