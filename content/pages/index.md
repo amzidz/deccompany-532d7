@@ -518,7 +518,7 @@ sections:
           “Quote from some important person goes right here. I love using
           Netlify Create.”
         tagline: "Pendapat\_6"
-        subtitle: 'Jane Doe, Company'
+        subtitle: deccompany
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
