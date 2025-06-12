@@ -96,7 +96,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon2.svg
+          url: /images/WhatsApp Image 2025-06-09 at 13.36.31_df9f3186.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
