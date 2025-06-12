@@ -90,7 +90,7 @@ sections:
               borderRadius: x-large
       - type: FeaturedItem
         title: 18 th
-        subtitle: Numbers Done
+        subtitle: pontianak
         text: >+
           tetap berusaha hidup walaupun aslinya juga pen hidup, jan lupa dengan
           yang namanya bersyukur yah gaes yah.
