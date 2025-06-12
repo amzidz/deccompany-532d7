@@ -145,7 +145,7 @@ sections:
             justifyContent: center
             textAlign: left
     actions:
-      - label: Get started
+      - label: lebih banyak
         altText: ''
         url: /
         showIcon: false
