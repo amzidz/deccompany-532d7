@@ -562,7 +562,7 @@ sections:
     subtitle: tentang pembelajaran dalwa english club
     items:
       - title: Feature Item One
-        tagline: This is the tagline
+        tagline: nama
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
