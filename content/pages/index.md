@@ -63,8 +63,9 @@ sections:
       - type: FeaturedItem
         title: 18 th
         subtitle: pontianak
-        text: |
-          tetap berusaha hidup walaupun aslinya elang petir.
+        text: >
+          tetap berusaha hidup walaupun aslinya juga pen hidup, jan lupa dengan
+          yang namanya bersyukur yah gaes yah.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
