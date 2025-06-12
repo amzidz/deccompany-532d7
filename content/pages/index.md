@@ -63,10 +63,8 @@ sections:
       - type: FeaturedItem
         title: 18 th
         subtitle: pontianak
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          tetap berusaha hidup walaupun aslinya elang petir.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
