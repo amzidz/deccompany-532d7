@@ -1,5 +1,5 @@
 ---
-title: dalwa 3
+title: Lapangan Dalwa 3
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
