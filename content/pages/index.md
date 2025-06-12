@@ -117,7 +117,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 500k
+        title: 18 th
         subtitle: pontianak
         text: >+
           tetap berusaha hidup walaupun aslinya juga pen hidup, jan lupa dengan
