@@ -12,7 +12,7 @@ sections:
       di sini kami belajar bahasa ingris dan bahasa arab dah itu aja buat
       sekarang.
     actions:
-      - label: Get started
+      - label: ''
         altText: ''
         url: /
         showIcon: false
