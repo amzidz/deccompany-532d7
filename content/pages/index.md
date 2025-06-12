@@ -561,7 +561,7 @@ sections:
       type: TitleBlock
     subtitle: tentang pembelajaran dalwa english club
     items:
-      - title: Feature Item One
+      - title: judul
         tagline: nama
         subtitle: This is the item subtitle
         text: |
