@@ -234,7 +234,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: PENERIMAAN ANGGOTA BARU DEC
       color: text-dark
       styles:
         self:
