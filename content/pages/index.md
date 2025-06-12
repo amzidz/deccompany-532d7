@@ -241,8 +241,9 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: tanggal 15 juni
-    text: |
-      dalwa english team dalwa english team dalwa english team
+    text: >
+      dalwa english team dalwa english team dalwa english team dalwa english
+      team dalwa english team dalwa english team
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
