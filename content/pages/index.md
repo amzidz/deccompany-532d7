@@ -645,7 +645,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Seputar (DEC)
+      text: Seputar (DEC) dan anggota
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
