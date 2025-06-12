@@ -182,7 +182,7 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/empathy-logo.svg
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
