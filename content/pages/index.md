@@ -267,7 +267,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: BY AMZIDZ
       color: text-primary
       styles:
         self:
