@@ -61,7 +61,7 @@ sections:
     subtitle: siapa aja
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 18 th
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
